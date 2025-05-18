@@ -2,14 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Abhay Singh </h1>
 
-<p align="center">
-  💻 Software Developer | 🚀 Tech Enthusiast | 🤝 Open to Collaborations
-</p>
 
 ---
 About Me:
 
-Do anyone reads this!!!
+<h2>Do anyone read this?</h2>
 
 ---
 
